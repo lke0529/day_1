@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'GangwonState';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/GangwonState.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+	font-family: 'GangwonState';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimWoojuR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.contents {
+	color: orange;
+    height: 1000px;
+    background-image: url(https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA3MjlfMjcz%2FMDAxNjkwNjE5MTY5NzY5.xZkowBn0S7HowyMivBfV8Jg5K6DbROGADV-bD_3Oh6gg.USYc7SwfS2cGiBan8ey5g1gQyM1HW0zwfCr12EF-d6Qg.JPEG.chansoondae%2FDSC_0899.jpg&type=sc960_832);
+	size: 30px;
+    background-size: cover;
+    padding: 10px 30px 10px 30px;
+    margin: 20px;
+}
+
+#con_header{
+	size: 50px;
+	color: darkblue;
+	text-align: center;
+}
